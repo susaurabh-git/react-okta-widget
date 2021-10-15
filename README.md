@@ -1,7 +1,5 @@
 # Sample Okta widget integration in ReactJS application
 
-In the project directory, you can run:
-
 ## To run the application
 
 ### `yarn start`
